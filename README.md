@@ -1,17 +1,36 @@
-## **👋 Hello, World!**
+# 👋 Hi there, welcome to my profile!
 
-I'm **BENGHERABI Mohamed Amine**, a Computer Science student with a passion for diving into the fascinating realm of Cyber Security. Currently exploring the intricate world of digital forensics, I'm on a journey to unravel the mysteries hidden in bits and bytes.
+## 🎓 About me
 
-## **🔍 Cyber Security Enthusiast:**
-   - Digital Forensics Explorer 🕵️‍♂️
-   - CTF Player 🚩
+Final-year engineering student at the **National Higher School of Computer Science of Sidi Bel Abbès (ESI-SBA)**, specializing in **Computer Systems Engineering**.
 
-## **🌱 Always Learning:**
-   - Embracing the challenges of the ever-evolving tech landscape.
-   - Striving to sharpen my skills and contribute to the infosec community.
+## 🔭 Areas of interest
 
-## **🚀 Let's Connect:**
-   - Open to collaborations and learning opportunities.
-   - Excited to share insights and experiences with fellow enthusiasts.
+- 🌐 Distributed systems
+- 🧩 Microservices architectures
+- 📡 Networking
+- 🔌 IoT
+- 🤖 Embedded systems
 
-Happy coding and hacking! 🚀
+## 💼 Hands-on experience
+
+Through several academic and personal projects, I have worked on:
+
+- 💻 Software development
+- ⚡ Distributed computing
+- 🧱 Microservices architectures
+- 📱 Mobile development
+- 🛜 Networking
+
+## 🚀 Featured project
+
+**🖥️ Low-cost HPC cluster** built with **OpenMPI** and **Raspberry Pi** for **distributed violence detection in videos**.
+
+## 📫 Get in touch
+
+- 💼 LinkedIn: [your-profile](https://www.linkedin.com/in/aminebengherabi/)
+- 📧 Email: mohamedaminebengherabi@gmail.com
+
+---
+
+⭐ Feel free to explore my repositories and reach out to connect!
